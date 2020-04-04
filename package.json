@@ -1,0 +1,27 @@
+{
+  "name": "send-sms-with-node",
+  "version": "1.0.0",
+  "description": "This is an API that allows you to send text messages with the help of Twilio Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanyke/Send-SMS-With-Node.js.git"
+  },
+  "keywords": [
+    "sms",
+    "node.js",
+    "twilio"
+  ],
+  "author": "Stanley Chibuike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanyke/Send-SMS-With-Node.js/issues"
+  },
+  "homepage": "https://github.com/Stanyke/Send-SMS-With-Node.js#readme",
+  "dependencies": {
+    "twilio": "^3.42.0"
+  }
+}
